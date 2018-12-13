@@ -15,7 +15,7 @@ public class Driver {
 		list1.head = new Node(4);
 		list1.head.next = new Node(8);
 		list1.head.next.next = new Node(12);
-		list1.head.next.next.next = new Node(16);
+		list1.head.next.next.next = new Node(19);
 		list1.head.next.next.next.next = list.head.next.next.next;
 
 		// System.out.println(list.detectLoop());
