@@ -1,4 +1,4 @@
-package ds.sorting;
+package sorting;
 
 public class SelectionSort {
 	static int array[] = new int[] { 3, 4, 10, 8, 0, 12, 6 };

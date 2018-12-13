@@ -1,4 +1,4 @@
-package ds.sllist;
+package sllist;
 
 public class Node {
 	

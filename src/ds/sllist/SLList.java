@@ -1,4 +1,4 @@
-package ds.sllist;
+package sllist;
 
 import java.util.HashSet;
 import java.util.Hashtable;
